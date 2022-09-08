@@ -1,4 +1,4 @@
-# Create React App
+# Just a logging page
 
 This directory is a brief example of a  site that have been deployed to Vercel with zero configuration.
 
