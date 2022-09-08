@@ -3,8 +3,8 @@
 This directory is a brief example of a  site that have been deployed to Vercel with zero configuration.
 
 
-
-Live Example: https://create-react-app-eta-ten-91.vercel.app/
+made with love 💜
+<br>[Click here](https://create-react-app-eta-ten-91.vercel.app/)
 
 ## Available Scripts
 
